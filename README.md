@@ -1,2 +1,2 @@
 # Cronometro
-Apenas um simples conômetro
+Apenas um simples cronômetro
